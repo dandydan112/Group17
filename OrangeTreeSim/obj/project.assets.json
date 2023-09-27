@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frede\\source\\repos\\OrangeTreeSim\\OrangeTreeSim.csproj",
+      "projectUniqueName": "C:\\Users\\frede\\OneDrive\\Desktop\\Group17\\OrangeTreeSim\\OrangeTreeSim.csproj",
       "projectName": "OrangeTreeSim",
-      "projectPath": "C:\\Users\\frede\\source\\repos\\OrangeTreeSim\\OrangeTreeSim.csproj",
+      "projectPath": "C:\\Users\\frede\\OneDrive\\Desktop\\Group17\\OrangeTreeSim\\OrangeTreeSim.csproj",
       "packagesPath": "C:\\Users\\frede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frede\\source\\repos\\OrangeTreeSim\\obj\\",
+      "outputPath": "C:\\Users\\frede\\OneDrive\\Desktop\\Group17\\OrangeTreeSim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frede\\AppData\\Roaming\\NuGet\\NuGet.Config",
