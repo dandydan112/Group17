@@ -12,3 +12,17 @@ C:\Users\frede\source\repos\OrangeTreeSim\obj\Debug\net6.0\refint\OrangeTreeSim.
 C:\Users\frede\source\repos\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.pdb
 C:\Users\frede\source\repos\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.genruntimeconfig.cache
 C:\Users\frede\source\repos\OrangeTreeSim\obj\Debug\net6.0\ref\OrangeTreeSim.dll
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.exe
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.deps.json
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.runtimeconfig.json
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.dll
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\bin\Debug\net6.0\OrangeTreeSim.pdb
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.AssemblyInfoInputs.cache
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.AssemblyInfo.cs
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.csproj.CoreCompileInputs.cache
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.dll
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\obj\Debug\net6.0\refint\OrangeTreeSim.dll
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.pdb
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\obj\Debug\net6.0\OrangeTreeSim.genruntimeconfig.cache
+C:\Users\frede\OneDrive\Desktop\Group17\OrangeTreeSim\obj\Debug\net6.0\ref\OrangeTreeSim.dll
